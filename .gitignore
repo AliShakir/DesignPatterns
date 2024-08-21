@@ -14,3 +14,17 @@ _book
 *.epub
 *.mobi
 *.pdf
+DesignPatterns/DesignPatterns/bin/Debug/net8.0/DesignPatterns.pdb
+*.obj
+*.bin
+*.json
+*.dll
+*.exe
+*.props
+*.targets
+*.cache
+*.cs
+*.BuildWithSkipAnalyzers
+*.txt
+*.editorconfig
+*.pdb
